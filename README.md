@@ -32,7 +32,7 @@ Start and End times are similar for both genders. Males use ride sharing more in
 ![Link to Dashboard](/Images/Stop_Time_by_Gender.PNG)
 
 
-Most rides are for less than 1 hour in lenght.
+Most rides are for less than 1 hour in length.
 ![Link to Dashboard](/Images/Trip_Duration_by_User.PNG)
 
 
