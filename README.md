@@ -20,7 +20,7 @@ asfd
 ![Link to Dashboard](/Images/Start_Time_Hours.PNG)
 
 asdf
-![Link to Dashboard](/Images/Starting_and Ending_Locations.PNG)
+![Link to Dashboard](/Images/Starting_and_Ending_Locations.PNG)
 
 asf
 ![Link to Dashboard](/Images/Stop_Time.PNG)
