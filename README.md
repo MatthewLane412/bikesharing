@@ -17,25 +17,23 @@ Please use the following link to view my Tableau Dashboard
 ![Link to Dashboard](/Images/Customer_vs_Subscriber_Users.PNG)
 
 
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
+![Link to Dashboard](/Images/Start_Time_Hours.PNG)
 
 
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
+![Link to Dashboard](/Images/Starting_and Ending_Locations.PNG)
 
 
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
+![Link to Dashboard](/Images/Stop_Time.PNG)
 
 
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
+![Link to Dashboard](/Images/Stop_Time_by_Gender.PNG)
 
 
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
+![Link to Dashboard](/Images/Trip_Duration_by_Gender.PNG)
 
 
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
+![Link to Dashboard](/Images/Trip_Duration_by_User.PNG)
 
-
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
 
 
 ## Summary
