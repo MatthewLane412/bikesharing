@@ -14,7 +14,7 @@ Please use the following link to view my Tableau Dashboard
 
 
 
-![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
+![Link to Dashboard](bikesharing/Images/Customer_vs_Subscriber_Users.PNG)
 
 
 ![Link to Dashboard]("https://public.tableau.com/app/profile/matthew.lane8526/viz/Bike_Sharing_16373748281890/Story1?publish=yes")
